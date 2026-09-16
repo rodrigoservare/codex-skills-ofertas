@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mapeador de Esteiras de Ofertas"
+  short_description: "Mapeia a oferta pública antes da clonagem"
+  default_prompt: "Use $mapeador-de-esteiras-de-ofertas para auditar publicamente esta oferta, enriquecendo apenas as lacunas necessárias, antes de qualquer clonagem."

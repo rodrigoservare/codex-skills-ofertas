@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clonador de Landing Pages"
+  short_description: "Clona landing pages com fidelidade e velocidade"
+  default_prompt: "Use $clonador-landing-pages para clonar fielmente uma landing page, quiz ou esteira pública a partir de uma URL ou mapa aprovado, começando por HTTP, transplantando a estrutura/runtime e usando navegador/QA somente quando necessário."
